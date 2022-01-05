@@ -10,5 +10,8 @@ package com.mycompany.vehiculos2;
  * @author lenovo
  */
 public class Carro {
+     public static void main(String[] args) {
+        // TODO code application logic here
+    }
     
 }
